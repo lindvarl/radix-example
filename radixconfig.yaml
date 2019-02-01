@@ -9,7 +9,7 @@ spec:
         from: master
     - name: development
       build:
-        from: feature1
+        from: dev
   components:
     - name: www
       src: ./www
