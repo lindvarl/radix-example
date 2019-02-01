@@ -1,7 +1,7 @@
 apiVersion: radix.equinor.com/v1
 kind: RadixApplication
 metadata:
-  name: ws-www
+  name: llag-www
 spec:
   environments:
     - name: production
